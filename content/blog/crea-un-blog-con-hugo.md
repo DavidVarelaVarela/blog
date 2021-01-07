@@ -1,7 +1,11 @@
----
-title : "Creacion De Un Blog Con Hugo"
-date : 2021-01-03T19:02:15+01:00
----
++++
+title = "Crea un blog con hugo"
+date = "2021-01-07"
+[[images]]
+  src = "img/2020/01/hugo-banner.jpg"
+  alt = "Desert Scene"
+  stretch = "stretchH"
++++
 
 ## Paragraphe
 

@@ -80,6 +80,10 @@ disableLanguages        = []
       siteKey           = ""
       encryptedKey      = ""
 
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
 [menu]
 
   [[menu.main]]

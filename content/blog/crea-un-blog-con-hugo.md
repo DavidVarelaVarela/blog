@@ -1,8 +1,8 @@
 +++
 title = "Crea un blog con hugo"
-date = "2021-01-07"
+date = "2021-01-09"
 [[images]]
-  src = "img/2020/01/hugo-banner.jpg"
+  src = "img/2021/01/hugo-banner.jpg"
   alt = "Desert Scene"
   stretch = "stretchH"
 +++

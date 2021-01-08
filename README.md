@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c38fc86f-51b2-4d77-b8ff-c750df3af3f9/deploy-status)](https://app.netlify.com/sites/brave-jones-da9acf/deploys)
+
 # Blog personal
 
 _Blog personal construido sobre la herramienta HUGO_

@@ -46,7 +46,7 @@ disableLanguages        = []
 
   [params.intro]
     header                = "MikiCastroDev"
-    paragraph             = "Técnico de desarrollo de software. <a href='https://www.linkedin.com/in/miguelangelcastroedreira/'>PERFIL</a>."
+    paragraph             = "Técnico de desarrollo de software. <a href='https://www.linkedin.com/in/miguelangelcastroedreira/'>PERFIL PROFESIONAL</a>."
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false

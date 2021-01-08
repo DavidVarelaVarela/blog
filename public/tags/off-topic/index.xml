@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on MikiCastroDev Blog</title>
-    <link>/blog/</link>
-    <description>Recent content in Blog on MikiCastroDev Blog</description>
+    <title>off-topic on MikiCastroDev Blog</title>
+    <link>/tags/off-topic/</link>
+    <description>Recent content in off-topic on MikiCastroDev Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/off-topic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Manos a la obra</title>
       <link>/blog/manos-a-la-obra/</link>
